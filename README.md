@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrCienpies
 - 👀 I’m interested in Game Development and Web Frontend
-- 🌱 I’m currently learning Frontend Web Development
+- 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on Game projects for mobiles.
 - 📫 How to reach me: diego.detomas@gmail.com
 
